@@ -2,15 +2,12 @@ from typing import List
 
 # Skeleton code for even_list
 def even_list(int_list: List[int]) -> List[int]:
-    """
+    
     result = []
     for num in int_list:
         if num %2 == 0:
             result.append(num)
     return result
-    """
-    # TODO: Implement even_list
-    pass
 """
  Determines if a number is even and return an even list.
  Args:
